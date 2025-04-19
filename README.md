@@ -4,6 +4,10 @@ Este projeto utiliza um **modelo de Regressão Logística** treinado com a base 
 
 A aplicação foi desenvolvida com **Streamlit**, permitindo que os usuários insiram informações em um painel interativo e recebam uma previsão imediata.
 
+
+https://github.com/user-attachments/assets/2bab133e-5ae3-4f97-8359-62e66a22b128
+
+
 ---
 
 ## 📊 Desempenho do Modelo
