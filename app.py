@@ -2,7 +2,6 @@ import pandas as pd
 import numpy as np
 import streamlit as st
 import joblib
-from sklearn.preprocessing import LabelEncoder
 
 st.set_page_config(
      page_title="Previsão de diabetes",
