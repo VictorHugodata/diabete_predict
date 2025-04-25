@@ -25,6 +25,6 @@ Esses números indicam um bom desempenho geral, especialmente na identificação
 
 Esta aplicação tem fins educativos e demonstrativos.
 Não substitui uma avaliação médica profissional.
-Caso haja qualquer suspeita de diabetes, procure orientação de um(a) médico(a) ou profissional da saúde qualificado.
+Caso haja qualquer suspeita de diabetes, procure orientação de um(a) médico(a) ou profissional da saúde qualificado
 
 ---
